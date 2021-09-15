@@ -1,3 +1,4 @@
+
 var nome, nota01, nota02, passou;
 
 passou = false;
